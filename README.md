@@ -2,6 +2,7 @@
 
 ## Hyunkiki
 - <img src="https://img.shields.io/badge/react-3178C6?style=flat&logo=react&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
 ## PROJECT1: PRADA
 
 ## PROJECT2: GOAL
